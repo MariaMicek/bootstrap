@@ -1,0 +1,25 @@
+main{
+    background-color: rgb(194, 240, 255);
+}
+
+footer > div{
+    background-color: #ddd;
+    border: 1px solid black;
+    padding: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.btn{
+    background-color: rgb(30, 98, 129);
+}
+
+.btn:hover{
+    background-color:  rgb(59, 121, 150);
+}
+
+/* @media screen and (max-width: 576px){
+    .jumbotron{
+        display: none;
+    }
+} */
